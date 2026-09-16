@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+data/*.xlsx
+data/*.csv
+data/*.fits
+!data/README.md
